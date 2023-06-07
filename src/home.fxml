@@ -7,7 +7,7 @@
 
 <fx:root maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="734.0" style="-fx-background-color: skyblue;" type="AnchorPane" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
    <children>
-      <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#switchtologin" text="Home">
+      <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" text="Home">
          <font>
             <Font size="18.0" />
          </font>
